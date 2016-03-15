@@ -1,1 +1,1 @@
-$(call inherit-product, vendor/asus/grouper/asus-vendor-blobs.mk)
+$(call inherit-product, vendor/asus-grouper/grouper/asus-vendor-blobs.mk)

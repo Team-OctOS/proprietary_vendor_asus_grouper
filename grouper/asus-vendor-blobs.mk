@@ -1,4 +1,4 @@
-VENDOR_FOLDER := vendor/asus/grouper
+VENDOR_FOLDER := vendor/asus-grouper/grouper
 
 PRODUCT_COPY_FILES += \
 	$(VENDOR_FOLDER)/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
